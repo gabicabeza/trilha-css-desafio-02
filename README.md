@@ -5,4 +5,4 @@ Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional
 ## O que foi feito nesse projeto:
 - Crei um clone da página do Youtube utilizando os conceitos de Flexbox;
 - Neste projeto segui as orientações do arquivo do Figma disponibilizado no curso.
-(https://www.figma.com/file/lrRWUZPKnqMDZrSDJmZxUS/Desafio-de-Flexbox---DIO?type=design&node-id=1-2&mode=design&t=boh2fUcbWSOmnUcF-0).
+https://www.figma.com/file/lrRWUZPKnqMDZrSDJmZxUS/Desafio-de-Flexbox---DIO?type=design&node-id=1-2&mode=design&t=boh2fUcbWSOmnUcF-0
